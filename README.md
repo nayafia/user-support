@@ -1,6 +1,6 @@
 # User Support System Analysis
 
-Data that goes with ["Understanding user support systems in open source"](link), an analysis of user support systems in open source.
+Data that goes with ["Understanding user support systems in open source"](https://nadiaeghbal.com/user-support), an analysis of user support systems in open source.
 
 I used BigQuery’s [GitHub data set](https://cloud.google.com/bigquery/public-data/github) to pull a list of top open source projects (public + OSS license detected) on GitHub, by most issues opened in the most recent year (8/29/17-8/29/18). Of these, I removed a bunch of noisy data to end up with a “top 100” list.
 
